@@ -13,7 +13,13 @@ void main() {
     double task4 = HW7.del(120, 40);
     System.out.println(task4);
 
-    boolean result = lesson7.inLove(10, 20);
+    boolean result = HW7.inLove(10, 20);
     System.out.println(result);
 
+    int[] arr = {78, 56, -2, 12, -8};
+    int testVal = HW7.findSmallestInt(arr);
+    System.out.println(testVal);
+
+    String testNew = HW7.countingSheep(5);
+    System.out.println(testNew);
 }
