@@ -11,5 +11,10 @@ public class training_string {
         System.out.println(test.equals(test2));
 
         System.out.println(test);
+
+        char[] str = test.toCharArray();
+        for (int i = 0; i < str.length; i++) {
+
+        }
     }
 }

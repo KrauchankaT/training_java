@@ -1,13 +1,19 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    IO.println(String.format("Hello and welcome!"));
 
-    for (int i = 1; i <= 5; i++) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        IO.println("i = " + i);
-    }
+void main() {
+
+    int task1 = HW7.sum(15, 14);
+    System.out.println(task1);
+
+    int task2 = HW7.substraction(20, 45);
+    System.out.println(task2);
+
+    int task3 = HW7.ymn(20, 15);
+    System.out.println(task3);
+
+    double task4 = HW7.del(120, 40);
+    System.out.println(task4);
+
+    boolean result = lesson7.inLove(10, 20);
+    System.out.println(result);
+
 }
