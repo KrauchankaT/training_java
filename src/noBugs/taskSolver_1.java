@@ -61,8 +61,8 @@ public class taskSolver_1 {
     //Реализуйте функцию, которая принимает число, суммирует его цифры и возвращает true,
     // если сумма четная, и false, если нечетная.
 
-    public static boolean task5(int a){
+   // public static boolean task5(int a){
 
-    }
+    //}
 
 }
