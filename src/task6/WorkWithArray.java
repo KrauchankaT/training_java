@@ -1,4 +1,6 @@
-public class HW6_2_Array {
+package task6;
+
+public class WorkWithArray {
     static void main() {
         /* Task1
         Дан массив: int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6}; необходимо вывести сумму всех значений массива.*/

@@ -1,6 +1,8 @@
+package task6;
+
 import java.util.Arrays;
 
-public class HW6_3_difficultTasks {
+public class DifficultTasks {
     static void main() {
         /* Task1
         Даны температуры воздуха за несколько дней:

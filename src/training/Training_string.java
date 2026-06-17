@@ -1,4 +1,6 @@
-public class training_string {
+package training;
+
+public class Training_string {
     static void main() {
         String test = "abs";
         String test1 = "abs";

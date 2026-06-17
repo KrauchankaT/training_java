@@ -1,4 +1,6 @@
-public class HW6_1 {
+package task6;
+
+public class WorkWithString {
     static void main() {
         /* Task1
         Дана строка:
